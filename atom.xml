@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Haojen</title>
-  <icon>https://www.gravatar.com/avatar/73d9f5e835e1fe3f26ab6aed46d01719</icon>
+  <title>罗云标</title>
+  
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://haojen.github.io/"/>
+  <link href="http://yoursite.com/"/>
   <updated>2018-07-24T06:55:29.461Z</updated>
-  <id>http://haojen.github.io/</id>
+  <id>http://yoursite.com/</id>
   
   <author>
-    <name>Haojen Ma</name>
-    <email>HaojenMa@gmail.com</email>
+    <name>John Doe</name>
+    
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
     <title>墨尘</title>
-    <link href="http://haojen.github.io/2018/07/23/hello-world/"/>
-    <id>http://haojen.github.io/2018/07/23/hello-world/</id>
+    <link href="http://yoursite.com/2018/07/23/hello-world/"/>
+    <id>http://yoursite.com/2018/07/23/hello-world/</id>
     <published>2018-07-23T14:16:44.536Z</published>
     <updated>2018-07-24T06:55:29.461Z</updated>
     
